@@ -1,0 +1,13 @@
+opencv-contrib-python
+numpy
+torch
+ultralytics
+mediapipe
+scikit-learn
+matplotlib
+PyYAML
+streamlit
+youtube-dl
+google-generativeai
+python-dotenv
+deepface
