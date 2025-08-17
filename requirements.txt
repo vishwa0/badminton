@@ -11,3 +11,4 @@ youtube-dl
 google-generativeai
 python-dotenv
 deepface
+tf-keras
